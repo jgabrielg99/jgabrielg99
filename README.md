@@ -8,6 +8,7 @@ Hi there! I'm Gabriel. Data Analyst/Data Scientist with expertise in data analys
 
 ## Projects 
 Welcome to my portfolio, where I showcase my projects.
+
 [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
 
 ## Tools
