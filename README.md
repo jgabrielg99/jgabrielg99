@@ -16,11 +16,11 @@ Welcome to my portfolio where I showcase my projects.
 - [Tableau Projects](#Tableau)
 
 # Python
-### EDA
-
-### Machine Learning
-
-### Deep Learning
+- [Project 2](https://github.com/jgabrielg99/Python/blob/main/Project_2.ipynb)
+- [Project 3](https://github.com/jgabrielg99/Python/blob/main/Project_3.ipynb1)
+- [Project 4](https://github.com/jgabrielg99/Python/blob/main/Project_4.ipynb)
+- [Project 5](https://github.com/jgabrielg99/Python/blob/main/Project_5.ipynb)
+- [Project 6](https://github.com/jgabrielg99/Python/blob/main/Project_7.ipynb)
 
 # SQL
 - [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
