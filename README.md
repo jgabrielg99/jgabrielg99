@@ -16,9 +16,14 @@ Welcome to my portfolio where I showcase my projects.
 - [Tableau Projects](#Tableau)
 
 # Python
+## EDA
+
+## Machine Learning
+
+## Deep Learning
 
 # SQL
--[8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
+- [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
 
 # Tableau
 
