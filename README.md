@@ -16,6 +16,7 @@ Welcome to my portfolio where I showcase my projects.
 - [Tableau Projects](#Tableau)
 
 # Python
+- [Project 1](https://github.com/jgabrielg99/Python/blob/main/Project_1.ipynb)
 - [Project 2](https://github.com/jgabrielg99/Python/blob/main/Project_2.ipynb)
 - [Project 3](https://github.com/jgabrielg99/Python/blob/main/Project_3.ipynb1)
 - [Project 4](https://github.com/jgabrielg99/Python/blob/main/Project_4.ipynb)
