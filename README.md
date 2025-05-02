@@ -16,12 +16,12 @@ Welcome to my portfolio where I showcase my projects.
 - [Tableau Projects](#Tableau)
 
 # Python
-- [Food Hub Data Analysis](https://github.com/jgabrielg99/Python/blob/main/Project_1.ipynb)
-- [AllLife Bank Personal Loan Campaign](https://github.com/jgabrielg99/Python/blob/main/Project_2.ipynb)
 - [Thera Bank Credit Card Churn Prediction](https://github.com/jgabrielg99/Python/blob/main/Project_3.ipynb1)
 - [Kaggle Bank Churn Prediction](https://github.com/jgabrielg99/Python/blob/main/Project_4.ipynb)
 - [Computer Vision: Plant Seedling Classification](https://github.com/jgabrielg99/Python/blob/main/Project_5.ipynb)
 - [Stock Market News Sentiment Analysis and Summarization](https://github.com/jgabrielg99/Python/blob/main/Project_7.ipynb)
+- [Food Hub Data Analysis](https://github.com/jgabrielg99/Python/blob/main/Project_1.ipynb)
+- [AllLife Bank Personal Loan Campaign](https://github.com/jgabrielg99/Python/blob/main/Project_2.ipynb)
 
 # SQL
 - [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
