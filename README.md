@@ -6,10 +6,21 @@ Hi there! I'm Gabriel. Data Analyst/Data Scientist with expertise in data analys
   * Developing dashboards on Tableau
   * Data analysis and reporting using Google Sheet, Excel, and Python pandas
 
-## Projects 
-Welcome to my portfolio, where I showcase my projects.
+# Projects
+Welcome to my portfolio where I showcase my projects.
 
-[8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
+## Table of Contents
+
+- [Python Projects](#Python)
+- [SQL Projects](#SQL)
+- [Tableau Projects](#Tableau)
+
+# Python
+
+# SQL
+-[8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
+
+# Tableau
 
 ## Tools
   * Language: SQL, Python
