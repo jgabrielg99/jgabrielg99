@@ -20,7 +20,7 @@ Welcome to my portfolio where I showcase my projects.
 - [AllLife Bank Personal Loan Campaign](https://github.com/jgabrielg99/Python/blob/main/AllLife%20Bank%20Personal%20Loan%20Campaign.ipynb)
 - [Thera Bank Credit Card Churn Prediction](https://github.com/jgabrielg99/Python/blob/main/Thera%20Bank%20Credit%20Card%20Churn%20Prediction.ipynb)
 - [Kaggle Bank Churn Prediction](https://github.com/jgabrielg99/Python/blob/main/Bank%20Churn%20Prediction%20Neural%20Network.ipynb)
-- [Computer Vision: Plant Seedling Classification](https://github.com/jgabrielg99/Python/blob/main/Project_5.ipynb)
+- [Computer Vision: Plant Seedling Classification](https://github.com/jgabrielg99/Python/blob/main/Plant%20Seedlings%20Classification.ipynb)
 - [Stock Market News Sentiment Analysis and Summarization](https://github.com/jgabrielg99/Python/blob/main/Project_7.ipynb)
 
 # SQL
