@@ -27,6 +27,7 @@ Welcome to my portfolio where I showcase my projects.
 - [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge)
 
 # Tableau
+- [Sales and Customer Dashboard](https://public.tableau.com/app/profile/gabriel.grant7325/viz/SalesDashboard_17467301138370/SalesDashboard)
 
 ## Tools
   * Language: SQL, Python
