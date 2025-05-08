@@ -28,6 +28,8 @@ Welcome to my portfolio where I showcase my projects.
 
 # Tableau
 - [Sales and Customer Dashboard](https://public.tableau.com/app/profile/gabriel.grant7325/viz/SalesDashboard_17467301138370/SalesDashboard)
+- <a href="https://public.tableau.com/app/profile/gabriel.grant7325/viz/SalesDashboard_17467301138370/SalesDashboard" target="_blank">View Tableau Dashboard</a>
+
 
 ## Tools
   * Language: SQL, Python
