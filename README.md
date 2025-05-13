@@ -32,8 +32,8 @@ Welcome to my portfolio where I showcase my projects.
 | [8 Week SQL Challenge](https://github.com/jgabrielg99/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This project is a deep-dive into real-world SQL analytics, based on the [#8WeekSQLChallenge](https://8weeksqlchallenge.com) by Data With Danny. This challenge highlights strong SQL fundamentals, complex joins, CTEs, window functions, and subqueries. It demonstrates my ability to extract actionable insights from relational databases in diverse business contexts. | 
 
 # Tableau
-| Dashboard Link | Area of Analysis | Project Description | 
-|---|---|---|
+| Dashboard Link | Project Description | 
+|---|---|
 | [Sales and Customer Dashboard](https://public.tableau.com/app/profile/gabriel.grant7325/viz/SalesDashboard_17467301138370/SalesDashboard) | This project features an interactive Tableau dashboard with two views: Sales and Customer. The Sales Dashboard displays KPIs for Total Sales, Profit, and Quantity, along with year-over-year comparisons through line and bar charts. Users can filter data by year and interact directly with charts to explore trends.
 
 The Customer Dashboard includes KPIs for Total Customers, Sales per Customer, and Total Orders, plus visualizations for order distribution and the top 10 customers by profit. |
